@@ -1,3 +1,4 @@
+# PROGRAM SEDERHANA TRANSAKSI PENJUALAN PINANG DI PAPUA
 import json
 import os
 from datetime import datetime as dt # from d import datetime
